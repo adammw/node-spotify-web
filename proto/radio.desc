@@ -1,0 +1,59 @@
+
+Ï
+radio.protospotify.radio.proto"a
+RadioRequest
+uris (	
+salt (
+length (
+	stationId (	
+
+lastTracks (	" 
+MultiSeedRequest
+uris (	"8
+Feedback
+uri (	
+type (	
+	timestamp ("y
+Tracks
+gids (	
+source (	
+identity (	
+tokens (	/
+feedback (2.spotify.radio.proto.Feedback"¸
+Station
+
+id (	
+title (	
+titleUri (	
+subtitle (	
+subtitleUri (	
+imageUri (	
+
+lastListen (
+seeds (	
+thumbsUp	 (
+
+thumbsDown
+ ("
+Rules
+
+js (	"q
+StationResponse-
+station (2.spotify.radio.proto.Station/
+feedback (2.spotify.radio.proto.Feedback"0
+StationListRequest
+canReadNewStations ("=
+StationList.
+stations (2.spotify.radio.proto.Station"
+LikedPlaylist
+uri (	" 
+GenreListRequest
+lang (	"7
+	GenreList*
+genres (2.spotify.radio.proto.Genre"D
+Genre
+
+id (	
+name (	
+imageUri (	
+bitMask (
